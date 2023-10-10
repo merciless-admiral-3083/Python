@@ -1,0 +1,2 @@
+Hi there! this file will be used to get output on the JAS 1 file
+I hope this txt file will help you proceed understand python
