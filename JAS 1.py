@@ -1,4 +1,5 @@
 # NOTE EVERYTHING IS CASE SENNSITIVE
+print("This text was typed by Jaspreet via GitHub on Android")
 x= ("Hello") #text can be written inside ""
 y= ('''i am under the wottar
 please help me, here too much raining 
